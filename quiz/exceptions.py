@@ -1,0 +1,2 @@
+class InvalidLogMessage(Exception):
+    pass
